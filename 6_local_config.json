@@ -1,0 +1,14 @@
+{
+    "Server-Object": {
+        "Hostname": "SERVER1",
+        "PrimaryIP": "192.168.158.52/28",
+        "PrimaryGateway": "192.168.158.49",
+        "DNS1": "69.20.0.164",
+        "DNS2": "69.20.0.196",
+        "MACAddresses": {
+            "Public": [
+                "00-15-5D-48-27-00"
+            ]
+        }
+    }
+}
